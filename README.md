@@ -2,7 +2,7 @@ heya im a goofy idiot programmer from america i program in python, c and go and 
 my projects are here on this page 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clubpenguin-dev&theme=tokyonight)
 
 
 
